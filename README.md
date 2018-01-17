@@ -12,6 +12,7 @@ Please be sure to read through and make sure you understand all this info. If yo
 ### Do:
 * Only edit the chapter-specific tabs of the spreadsheet (`Chapter 1`, `Chapter 2`, etc). Within those tabs, **only** update the `Name` and `Last updated` columns.
 * Put your name, the chapter you updated, and the date on the `Instrucitons & Check-in` tab.
+* Try to match the capitalization of names on the high scores. The spreadsheet considers identical names with different capitalization to be different.
 
 ---
 
