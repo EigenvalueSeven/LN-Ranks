@@ -21,4 +21,4 @@ Please be sure to read through and make sure you understand all this info. If yo
 * Go in and specifically update levels where you just ranked up. To keep things consistent and unbiased, let's update entire chapters at a time.
 * Edit the tables on the right in the chapter tabs. These columns are just the first step of data processing and will update on their own.
 * **IMPORTANT** pleeeease do not drag existing names elsewhere. This can be tempting, especially if the highscores have just shifted one spot, but it breaks the code which does the counting.
-* **IMPORTANT** do not share this copy of the high-score spreadsheet with anyone. If it becomes public or gets into the wrong hands, we could lose our hard work.# LN-Ranks
+* **IMPORTANT** do not share this copy of the high-score spreadsheet with anyone. If it becomes public or gets into the wrong hands, we could lose our hard work.
